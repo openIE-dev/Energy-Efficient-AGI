@@ -1,48 +1,69 @@
 # Energy-Efficient AGI
 
-**Hardware-Aware Adaptive Routing for Sustainable AI Systems**
+**Research and Development for Sustainable Artificial Intelligence**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Research](https://img.shields.io/badge/Research-Open%20Access-green.svg)](https://openie.dev/projects/)
-[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026%20Submission-blue.svg)](https://neurips.cc)
 
-> **72.3% energy savings** | **3.2x speedup** | **Zero quality degradation**
-
----
-
-## 📄 White Paper
-
-**[Download PDF](whitepaper.pdf)** | **[Read Online](https://openie.dev/metabolic-cascade-whitepaper.pdf)**
-
-*Charlot, D.J. (2026). "Metabolic Cascade Inference: Hardware-Aware Adaptive Routing for Energy-Efficient AI." Open Interface Engineering / UC Santa Barbara.*
+> Building artificial general intelligence systems that prioritize energy efficiency without sacrificing capability.
 
 ---
 
-## Overview
+## Publications
 
-AI systems are consuming unsustainable amounts of energy, with global data centers projected to use 1,050 TWh by 2026. Most queries don't need the most powerful model, yet current solutions lack hardware awareness.
+### Metabolic Cascade Inference
+**Hardware-Aware Adaptive Routing for Energy-Efficient AI**
 
-**Metabolic Cascade Inference** is a biologically-inspired system that grounds AI routing decisions in real hardware state—integrating CPU/GPU temperature, power consumption, and thermal headroom into intelligent model selection. The system automatically routes simple queries to small models (1-7B params), medium queries to mid-size models (7-20B params), and complex queries to large models (20B+ params).
+**[Download PDF](Metabolic-Cascade-Inference.pdf)**
 
-### Key Innovation
+*Charlot, D.J. (2026). First AI system to integrate real-time hardware telemetry (temperature, power, memory pressure) into model routing decisions.*
 
-First AI system to integrate **real-time hardware telemetry** (temperature, power, memory pressure) into model routing decisions, grounding abstract optimization in physical reality.
+- **72.3% energy savings** vs. baseline
+- **3.2x speedup** on complex queries
+- **Zero quality degradation**
 
-### Results
+---
 
-- **Energy Savings:** 72.3% reduction vs. baseline
-- **Speedup:** 3.2x theoretical peak on complex queries
-- **Routing Accuracy:** 85.7% confidence-based
-- **Hallucination Detection:** 83.3% accuracy
+### The AI Inference Crisis
+**Why Current Approaches Are Unsustainable**
 
-### Six Integrated Capabilities
+**[Download PDF](The-AI-Inference-Crisis-Whitepaper.pdf)**
 
-1. **Complexity Classification** - Route by computational needs
-2. **Metabolic State Tracking** - Real-time hardware telemetry
-3. **Model Selection** - Adaptive routing under constraints
-4. **Speculative Decoding** - Draft-verify for 3.2x speedup
-5. **Fact Validation** - Integrated hallucination detection
-6. **Procedural Memory** - Learn from successful executions
+*An examination of the growing energy consumption of AI inference and why hardware-aware approaches are essential for sustainable AI.*
+
+---
+
+### Cortex: Neural-Symbolic Programming
+**A New Paradigm for AI-Native Languages**
+
+**[Download PDF](Cortex-Neural-Symbolic-Programming-Whitepaper.pdf)**
+
+*Technical whitepaper on Cortex, an AI-native programming language that bridges neural networks and symbolic computation for energy-efficient inference.*
+
+---
+
+### Unified Intelligence Integration
+**Bridging Multiple AI Paradigms**
+
+**[Download PDF](Unified-Intelligence-Integration-Whitepaper.pdf)**
+
+*Research on integrating different AI approaches—neural networks, symbolic reasoning, and energy-aware scheduling—into unified systems.*
+
+---
+
+## Research Areas
+
+### Hardware-Aware AI
+Integrating real-time hardware telemetry (CPU/GPU temperature, power consumption, thermal headroom) into AI system decisions.
+
+### Energy-Efficient Inference
+Novel architectures and routing strategies that reduce energy consumption by 70%+ without quality loss.
+
+### AI-Native Languages
+Programming languages designed from the ground up for AI workloads, with built-in energy awareness and hardware telemetry.
+
+### Metabolic Computing
+Biologically-inspired systems that adapt to hardware state the way organisms adapt to metabolic conditions.
 
 ---
 
@@ -50,10 +71,9 @@ First AI system to integrate **real-time hardware telemetry** (temperature, powe
 
 This research is conducted in the spirit of **open science**:
 
-- ✅ **Open Access** white paper (CC BY 4.0, no email gate)
-- ✅ **Partial Open Source** (benchmarks, telemetry, evaluation tools coming Feb-Mar 2026)
-- ✅ **No Patents** - published freely for community benefit
-- 📝 **Full Academic Paper** targeting NeurIPS 2026 submission
+- **Open Access** - All whitepapers freely available (CC BY 4.0)
+- **No Patents** - Published freely for community benefit
+- **Community-Driven** - Contributions and discussions welcome
 
 ---
 
@@ -63,10 +83,9 @@ This research is conducted in the spirit of **open science**:
 @techreport{charlot2026metabolic,
   title={Metabolic Cascade Inference: Hardware-Aware Adaptive Routing for Energy-Efficient AI},
   author={Charlot, David Jean},
-  institution={Open Interface Engineering / UC Santa Barbara},
+  institution={Open Interface Engineering},
   year={2026},
-  month={January},
-  url={https://openie.dev/metabolic-cascade-whitepaper.pdf},
+  url={https://github.com/openIE-dev/Energy-Efficient-AGI},
   note={Open Access Research, CC BY 4.0}
 }
 ```
@@ -77,19 +96,16 @@ This research is conducted in the spirit of **open science**:
 
 **David Jean Charlot, PhD**
 
-- 📧 Email: [david@openie.dev](mailto:david@openie.dev) (primary) | [dcharlot@ucsb.edu](mailto:dcharlot@ucsb.edu) (academic)
-- 🌐 Website: [openie.dev/projects/](https://openie.dev/projects/)
-- 📄 White Paper: [openie.dev/metabolic-cascade-whitepaper.pdf](https://openie.dev/metabolic-cascade-whitepaper.pdf)
-
-**Interested in collaborating?** This research is under active development for NeurIPS 2026 submission. Collaboration opportunities include multi-modal extensions, federated procedural memory, and real-world deployment validation.
+- Email: [david@openie.dev](mailto:david@openie.dev)
+- Website: [openie.dev](https://openie.dev)
+- Projects: [projects.openie.dev](https://projects.openie.dev)
 
 ---
 
 ## License
 
-- **White Paper:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Whitepapers:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Code (upcoming):** MIT or Apache 2.0
-- **No Patents:** Published freely for community benefit
 
 ---
 
