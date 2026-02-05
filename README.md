@@ -33,15 +33,6 @@
 
 ---
 
-### Cortex: Neural-Symbolic Programming
-**A New Paradigm for AI-Native Languages**
-
-**[Download PDF](Cortex-Neural-Symbolic-Programming-Whitepaper.pdf)**
-
-*Technical whitepaper on Cortex, an AI-native programming language that bridges neural networks and symbolic computation for energy-efficient inference.*
-
----
-
 ### Unified Intelligence Integration
 **Bridging Multiple AI Paradigms**
 
