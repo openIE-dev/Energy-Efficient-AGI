@@ -14,7 +14,7 @@
 ### Metabolic Cascade Inference
 **Hardware-Aware Adaptive Routing for Energy-Efficient AI**
 
-**[Download PDF](Metabolic-Cascade-Inference.pdf)**
+**[Download PDF](04-Metabolic-Cascade-Inference.pdf)**
 
 *Charlot, D.J. (2026). First AI system to integrate real-time hardware telemetry (temperature, power, memory pressure) into model routing decisions.*
 
@@ -27,7 +27,7 @@
 ### The AI Inference Crisis
 **Why Current Approaches Are Unsustainable**
 
-**[Download PDF](The-AI-Inference-Crisis-Whitepaper.pdf)**
+**[Download PDF](05-AI-Inference-Crisis-Precursor.pdf)**
 
 *An examination of the growing energy consumption of AI inference and why hardware-aware approaches are essential for sustainable AI.*
 
@@ -36,7 +36,7 @@
 ### Unified Intelligence Integration
 **Bridging Multiple AI Paradigms**
 
-**[Download PDF](Unified-Intelligence-Integration-Whitepaper.pdf)**
+**[Download PDF](07-Unified-Intelligence-Integration.pdf)**
 
 *Research on integrating different AI approaches—neural networks, symbolic reasoning, and energy-aware scheduling—into unified systems.*
 
