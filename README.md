@@ -42,6 +42,15 @@
 
 ---
 
+### AI-First Language Design with State Space Models
+**Continuous Program State for Energy-Efficient Execution**
+
+**[Download PDF](06-AI-First-Language-SSMs.pdf)**
+
+*Research on using State Space Models for AI-native programming languages with continuous program state representation and energy-aware scheduling.*
+
+---
+
 ## Research Areas
 
 ### Hardware-Aware AI
